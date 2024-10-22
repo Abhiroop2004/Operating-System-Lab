@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int buffer_size = 0, max_size;
 
