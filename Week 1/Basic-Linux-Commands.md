@@ -69,6 +69,7 @@ UNIX kernel: The kernel is the core of the UNIX OS. It controls all tasks, sched
    ```sh
    root@DESKTOP-L3EPDNV:/mnt/c# who                                                                                                                                                                                              root     pts/1        2024-11-17 07:13                                                                                                                                                                                        root@DESKTOP-L3EPDNV:/mnt/c# whoami                                                                                                                                                                                           root
    ```
+   
 9. `uptime` `uname` `hostname` Commands
     ```sh
     root@DESKTOP-L3EPDNV:/mnt/c# uptime                                                                                                                                                                                           08:13:35 up  1:00,  1 user,  load average: 0.00, 0.01, 0.00
