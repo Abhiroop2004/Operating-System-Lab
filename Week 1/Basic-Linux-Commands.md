@@ -18,6 +18,7 @@ UNIX kernel: The kernel is the core of the UNIX OS. It controls all tasks, sched
 ### Commands
 
 1. `date` Command
+   – used to check the date and time
    ```sh
     Sun Nov 17 07:14:34 IST 2024                                                                                            
     root@DESKTOP-L3EPDNV:~# date +%m                                                                                        
@@ -36,6 +37,7 @@ UNIX kernel: The kernel is the core of the UNIX OS. It controls all tasks, sched
     42   
     ```
 2. `cal` Command
+   – used to display the calendar
    ```sh
     root@DESKTOP-L3EPDNV:~# cal                                                                                                
     November 2024                                                                                                        
@@ -46,8 +48,12 @@ UNIX kernel: The kernel is the core of the UNIX OS. It controls all tasks, sched
     17 18 19 20 21 22 23                                                                                                    
     24 25 26 27 28 29 30                                                                                                                          
    ```
-   3. `Echo` Command
-      ```sh
-      root@DESKTOP-L3EPDNV:~# echo "Hello World"
-      Hello World  
-      ```
+2. `Echo` Command
+   – used to print the message on the screen.
+   ```sh
+   root@DESKTOP-L3EPDNV:~# echo "Hello World"
+   Hello World  
+   ```
+4. `ls` Command
+   – used to list the files. Your files are kept in a directory.
+   
